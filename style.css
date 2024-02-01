@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+
+body{
+    background-color: RGB(78 78 78);
+    font-family:tahoma;
+}
+.containar{
+    width: 400px;
+    height: 400px;
+    margin:  180px auto;
+    background-color:inherit;
+    box-shadow: 0 0 30px 10px #3d3d3d;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 29px;
+}
+.containar img{
+    width: 170px;
+    height: 170px;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 50%;
+}
+h1{
+    margin: 15px;
+    color: white;
+}
+p{
+    color: #9d9e9d;
+    font-size: 20px;
+}
